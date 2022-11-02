@@ -1,0 +1,4 @@
+2022-11-02 22:07:09 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "[*]PRINTEDPRODUCT"; ожидалось "PREPARE"
+Syntax error in SQL statement "[*]PRINTEDPRODUCT"; expected "PREPARE"; SQL statement:
+PRINTEDPRODUCT [42001-214]
